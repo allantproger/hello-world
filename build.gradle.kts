@@ -37,8 +37,11 @@ dependencies {
     compile("com.fasterxml.jackson.module:jackson-module-kotlin")
     compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310")
     compile("org.springframework:spring-web")
-    compile ("org.jsoup:jsoup:1.11.3")
-    compile ("org.springframework.boot:spring-boot-starter-web")
+    compile("org.jsoup:jsoup:1.11.3")
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("net.swisstech:bitly-api-client:+")
+    compile("org.springframework.boot:spring-boot-starter-data-redis")
+
 }
 
 repositories {

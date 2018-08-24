@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.swisstech:bitly-api-client:0.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.swisstech/bitly-api-client/0.8.0/529c3a8353f91bbf0c9c5af12be910fde23b8ba/bitly-api-client-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.swisstech/bitly-api-client/0.8.0/4c0c357205dc3b47def982db57da4fe64181b315/bitly-api-client-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

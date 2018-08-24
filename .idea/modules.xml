@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeleBot.iml" filepath="$PROJECT_DIR$/.idea/modules/TeleBot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeleBot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TeleBot_main.iml" group="TeleBot" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeleBot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TeleBot_test.iml" group="TeleBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newsfromtengribot.iml" filepath="$PROJECT_DIR$/.idea/modules/newsfromtengribot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newsfromtengribot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/newsfromtengribot_main.iml" group="newsfromtengribot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newsfromtengribot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/newsfromtengribot_test.iml" group="newsfromtengribot" />
     </modules>
   </component>
 </project>
