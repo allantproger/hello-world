@@ -1,0 +1,3 @@
+rootProject.name = 'TeleBot'
+rootProject.buildFileName = 'build.gradle.kts'
+
